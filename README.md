@@ -12,3 +12,6 @@ sadasdas
 # nagłówek 5
 
 # zmiany
+
+
+# instrukcja obslugi
