@@ -10,3 +10,5 @@ sadasdas
 # naglowek 4 
 
 # nagłówek 5
+
+# instrukcja obslugi
